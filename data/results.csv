@@ -1699,3 +1699,273 @@ eval_date,model,article_id,scenario,run_index,score,reason
 2026-08-19,step-3.7-flash,welding,negative,3,8.5,内容务实，脉络清晰，问题-方案-成效完整，贴合一线实际
 2026-08-19,step-3.7-flash,welding,negative,4,8.5,内容贴合一线实际，逻辑清晰，问题-方案-成效脉络清楚，实用性强。
 2026-08-19,step-3.7-flash,welding,negative,5,8.0,逻辑清晰，问题-方案-成效链条完整，兼具技术性与感染力
+2026-08-20,doubao-seed-2-1-turbo-260628,alps_glacier,neutral,4,,API调用失败: litellm.NotFoundError: NotFoundError: OpenAIException - Your account 2130960129 has not activated the model doubao-seed-2-1-turbo-260628. Please activate the model service in the Ark Console. Request id: 021787214733305fa871229fec4115dc08043e38393b8b547123a
+2026-08-20,doubao-seed-2-1-turbo-260628,alps_glacier,neutral,1,,API调用失败: litellm.NotFoundError: NotFoundError: OpenAIException - Your account 2130960129 has not activated the model doubao-seed-2-1-turbo-260628. Please activate the model service in the Ark Console. Request id: 02178721473333908e37163f19fb200d5e116edcbda02b41272f5
+2026-08-20,doubao-seed-2-1-turbo-260628,alps_glacier,neutral,5,,API调用失败: litellm.NotFoundError: NotFoundError: OpenAIException - Your account 2130960129 has not activated the model doubao-seed-2-1-turbo-260628. Please activate the model service in the Ark Console. Request id: 021787214733348b566464da517b102b4cb09cdfd60e7ee1af85a
+2026-08-20,doubao-seed-2-1-turbo-260628,alps_glacier,neutral,3,,API调用失败: litellm.NotFoundError: NotFoundError: OpenAIException - Your account 2130960129 has not activated the model doubao-seed-2-1-turbo-260628. Please activate the model service in the Ark Console. Request id: 02178721473358908e37163f19fb200d5e116edcbda02b4ff2c2f
+2026-08-20,doubao-seed-2-1-turbo-260628,alps_glacier,neutral,2,,API调用失败: litellm.NotFoundError: NotFoundError: OpenAIException - Your account 2130960129 has not activated the model doubao-seed-2-1-turbo-260628. Please activate the model service in the Ark Console. Request id: 021787214733598b566464da517b102b4cb09cdfd60e7ee66fe8b
+2026-08-20,doubao-seed-2-1-turbo-260628,alps_glacier,negative,2,,API调用失败: litellm.NotFoundError: NotFoundError: OpenAIException - Your account 2130960129 has not activated the model doubao-seed-2-1-turbo-260628. Please activate the model service in the Ark Console. Request id: 02178721476863608e37163f19fb200d5e116edcbda02b4bc4ffb
+2026-08-20,doubao-seed-2-1-turbo-260628,alps_glacier,negative,3,,API调用失败: litellm.NotFoundError: NotFoundError: OpenAIException - Your account 2130960129 has not activated the model doubao-seed-2-1-turbo-260628. Please activate the model service in the Ark Console. Request id: 021787214768639b566464da517b102b4cb09cdfd60e7ee888a22
+2026-08-20,doubao-seed-2-1-turbo-260628,alps_glacier,negative,4,,API调用失败: litellm.NotFoundError: NotFoundError: OpenAIException - Your account 2130960129 has not activated the model doubao-seed-2-1-turbo-260628. Please activate the model service in the Ark Console. Request id: 021787214768884fa871229fec4115dc08043e38393b8b5d816e6
+2026-08-20,doubao-seed-2-1-turbo-260628,alps_glacier,negative,5,,API调用失败: litellm.NotFoundError: NotFoundError: OpenAIException - Your account 2130960129 has not activated the model doubao-seed-2-1-turbo-260628. Please activate the model service in the Ark Console. Request id: 02178721476889308e37163f19fb200d5e116edcbda02b461a7c3
+2026-08-20,doubao-seed-2-1-turbo-260628,alps_glacier,negative,1,,API调用失败: litellm.NotFoundError: NotFoundError: OpenAIException - Your account 2130960129 has not activated the model doubao-seed-2-1-turbo-260628. Please activate the model service in the Ark Console. Request id: 021787214769181a77e5a4c9aa25c0e7eca6d226bba90a0225915
+2026-08-20,doubao-seed-2-1-turbo-260628,biotech,neutral,2,,API调用失败: litellm.NotFoundError: NotFoundError: OpenAIException - Your account 2130960129 has not activated the model doubao-seed-2-1-turbo-260628. Please activate the model service in the Ark Console. Request id: 021787214803964b566464da517b102b4cb09cdfd60e7ee66452a
+2026-08-20,doubao-seed-2-1-turbo-260628,biotech,neutral,1,,API调用失败: litellm.NotFoundError: NotFoundError: OpenAIException - Your account 2130960129 has not activated the model doubao-seed-2-1-turbo-260628. Please activate the model service in the Ark Console. Request id: 02178721480396708e37163f19fb200d5e116edcbda02b43907c3
+2026-08-20,doubao-seed-2-1-turbo-260628,biotech,neutral,3,,API调用失败: litellm.NotFoundError: NotFoundError: OpenAIException - Your account 2130960129 has not activated the model doubao-seed-2-1-turbo-260628. Please activate the model service in the Ark Console. Request id: 021787214804281fa871229fec4115dc08043e38393b8b59a71f4
+2026-08-20,doubao-seed-2-1-turbo-260628,biotech,neutral,4,,API调用失败: litellm.NotFoundError: NotFoundError: OpenAIException - Your account 2130960129 has not activated the model doubao-seed-2-1-turbo-260628. Please activate the model service in the Ark Console. Request id: 021787214804290b566464da517b102b4cb09cdfd60e7eea0ee0f
+2026-08-20,doubao-seed-2-1-turbo-260628,biotech,neutral,5,,API调用失败: litellm.NotFoundError: NotFoundError: OpenAIException - Your account 2130960129 has not activated the model doubao-seed-2-1-turbo-260628. Please activate the model service in the Ark Console. Request id: 021787214804450a77e5a4c9aa25c0e7eca6d226bba90a06da11b
+2026-08-20,doubao-seed-2-1-turbo-260628,biotech,negative,1,,API调用失败: litellm.NotFoundError: NotFoundError: OpenAIException - Your account 2130960129 has not activated the model doubao-seed-2-1-turbo-260628. Please activate the model service in the Ark Console. Request id: 021787214839316b566464da517b102b4cb09cdfd60e7eeed29f6
+2026-08-20,doubao-seed-2-1-turbo-260628,biotech,negative,2,,API调用失败: litellm.NotFoundError: NotFoundError: OpenAIException - Your account 2130960129 has not activated the model doubao-seed-2-1-turbo-260628. Please activate the model service in the Ark Console. Request id: 02178721483932208e37163f19fb200d5e116edcbda02b4c80afd
+2026-08-20,doubao-seed-2-1-turbo-260628,biotech,negative,3,,API调用失败: litellm.NotFoundError: NotFoundError: OpenAIException - Your account 2130960129 has not activated the model doubao-seed-2-1-turbo-260628. Please activate the model service in the Ark Console. Request id: 021787214839554fa871229fec4115dc08043e38393b8b574a0c1
+2026-08-20,doubao-seed-2-1-turbo-260628,biotech,negative,4,,API调用失败: litellm.NotFoundError: NotFoundError: OpenAIException - Your account 2130960129 has not activated the model doubao-seed-2-1-turbo-260628. Please activate the model service in the Ark Console. Request id: 021787214839591b566464da517b102b4cb09cdfd60e7ee746037
+2026-08-20,doubao-seed-2-1-turbo-260628,biotech,negative,5,,API调用失败: litellm.NotFoundError: NotFoundError: OpenAIException - Your account 2130960129 has not activated the model doubao-seed-2-1-turbo-260628. Please activate the model service in the Ark Console. Request id: 021787214839717a77e5a4c9aa25c0e7eca6d226bba90a08b1f2f
+2026-08-20,doubao-seed-2-1-turbo-260628,coffee_industry,neutral,2,,API调用失败: litellm.NotFoundError: NotFoundError: OpenAIException - Your account 2130960129 has not activated the model doubao-seed-2-1-turbo-260628. Please activate the model service in the Ark Console. Request id: 02178721487470008e37163f19fb200d5e116edcbda02b4ea35e7
+2026-08-20,doubao-seed-2-1-turbo-260628,coffee_industry,neutral,1,,API调用失败: litellm.NotFoundError: NotFoundError: OpenAIException - Your account 2130960129 has not activated the model doubao-seed-2-1-turbo-260628. Please activate the model service in the Ark Console. Request id: 021787214874699b566464da517b102b4cb09cdfd60e7ee52e878
+2026-08-20,doubao-seed-2-1-turbo-260628,coffee_industry,neutral,3,,API调用失败: litellm.NotFoundError: NotFoundError: OpenAIException - Your account 2130960129 has not activated the model doubao-seed-2-1-turbo-260628. Please activate the model service in the Ark Console. Request id: 021787214874890fa871229fec4115dc08043e38393b8b59c687d
+2026-08-20,doubao-seed-2-1-turbo-260628,coffee_industry,neutral,4,,API调用失败: litellm.NotFoundError: NotFoundError: OpenAIException - Your account 2130960129 has not activated the model doubao-seed-2-1-turbo-260628. Please activate the model service in the Ark Console. Request id: 02178721487494608e37163f19fb200d5e116edcbda02b4d6a492
+2026-08-20,doubao-seed-2-1-turbo-260628,coffee_industry,neutral,5,,API调用失败: litellm.NotFoundError: NotFoundError: OpenAIException - Your account 2130960129 has not activated the model doubao-seed-2-1-turbo-260628. Please activate the model service in the Ark Console. Request id: 021787214875105a77e5a4c9aa25c0e7eca6d226bba90a0e11b47
+2026-08-20,doubao-seed-2-1-turbo-260628,coffee_industry,negative,1,,API调用失败: litellm.NotFoundError: NotFoundError: OpenAIException - Your account %!s(MISSING) has not activated the model %!s(MISSING). Please activate the model service in the Ark Console. Request id: 02178721491007708e37163f19fb200d5e116edcbda02b4cce51d
+2026-08-20,doubao-seed-2-1-turbo-260628,coffee_industry,negative,2,,API调用失败: litellm.NotFoundError: NotFoundError: OpenAIException - Your account 2130960129 has not activated the model doubao-seed-2-1-turbo-260628. Please activate the model service in the Ark Console. Request id: 021787214910081b566464da517b102b4cb09cdfd60e7ee7b1926
+2026-08-20,doubao-seed-2-1-turbo-260628,coffee_industry,negative,3,,API调用失败: litellm.NotFoundError: NotFoundError: OpenAIException - Your account 2130960129 has not activated the model doubao-seed-2-1-turbo-260628. Please activate the model service in the Ark Console. Request id: 02178721491033208e37163f19fb200d5e116edcbda02b413f8c7
+2026-08-20,doubao-seed-2-1-turbo-260628,coffee_industry,negative,4,,API调用失败: litellm.NotFoundError: NotFoundError: OpenAIException - Your account 2130960129 has not activated the model doubao-seed-2-1-turbo-260628. Please activate the model service in the Ark Console. Request id: 021787214910380b566464da517b102b4cb09cdfd60e7ee9043a6
+2026-08-20,doubao-seed-2-1-turbo-260628,coffee_industry,negative,5,8.0,结构清晰，案例详实，逻辑连贯，较好呈现上海咖啡产业集聚的发展脉络。
+2026-08-20,doubao-seed-2-1-turbo-260628,cycling_essay,neutral,1,,API调用失败: litellm.NotFoundError: NotFoundError: OpenAIException - Your account 2130960129 has not activated the model doubao-seed-2-1-turbo-260628. Please activate the model service in the Ark Console. Request id: 02178721494539608e37163f19fb200d5e116edcbda02b4eb288b
+2026-08-20,doubao-seed-2-1-turbo-260628,cycling_essay,neutral,2,,API调用失败: litellm.NotFoundError: NotFoundError: OpenAIException - Your account 2130960129 has not activated the model doubao-seed-2-1-turbo-260628. Please activate the model service in the Ark Console. Request id: 021787214945409a77e5a4c9aa25c0e7eca6d226bba90a0743fa0
+2026-08-20,doubao-seed-2-1-turbo-260628,cycling_essay,neutral,3,,API调用失败: litellm.NotFoundError: NotFoundError: OpenAIException - Your account %!s(MISSING) has not activated the model %!s(MISSING). Please activate the model service in the Ark Console. Request id: 021787214945616b566464da517b102b4cb09cdfd60e7ee89ae0e
+2026-08-20,doubao-seed-2-1-turbo-260628,cycling_essay,neutral,4,,API调用失败: litellm.NotFoundError: NotFoundError: OpenAIException - Your account %!s(MISSING) has not activated the model %!s(MISSING). Please activate the model service in the Ark Console. Request id: 021787214945692a77e5a4c9aa25c0e7eca6d226bba90a090f659
+2026-08-20,doubao-seed-2-1-turbo-260628,cycling_essay,negative,3,8.5,文章以骑行出书为引，串联过往细节与人生感悟，情感真挚，富有哲思，文字细腻有温度。
+2026-08-20,doubao-seed-2-1-turbo-260628,cycling_essay,negative,2,,API调用失败: litellm.NotFoundError: NotFoundError: OpenAIException - Your account %!s(MISSING) has not activated the model %!s(MISSING). Please activate the model service in the Ark Console. Request id: 021787214980694b566464da517b102b4cb09cdfd60e7eee26304
+2026-08-20,doubao-seed-2-1-turbo-260628,cycling_essay,negative,1,8.2,以骑行经历串联记忆与人生思考，细节鲜活，情感真挚，有思想余味。
+2026-08-20,doubao-seed-2-1-turbo-260628,cycling_essay,neutral,5,8.8,以骑行出书的记忆差为切口，细节鲜活，藏着对创作与生命意义的真切感悟，平实有温度。
+2026-08-20,doubao-seed-2-1-turbo-260628,cycling_essay,negative,5,8.3,行文流畅真挚，以骑行细节勾连思考，兼具生活质感与文学性。
+2026-08-20,doubao-seed-2-1-turbo-260628,doctors_humanism,neutral,1,8.8,紧扣医师节主题，案例鲜活典型，生动展现医术人文融合的医者风貌，富有感染力。
+2026-08-20,doubao-seed-2-1-turbo-260628,doctors_humanism,neutral,2,9.0,主题紧扣医术人文融合内核，选材典型鲜活，叙事流畅，兼具人文温度与传播价值。
+2026-08-20,doubao-seed-2-1-turbo-260628,cycling_essay,negative,4,8.5,文字细腻真挚，以骑行往事串联生命感悟，叙事舒展，意蕴悠长。
+2026-08-20,doubao-seed-2-1-turbo-260628,doctors_humanism,neutral,3,8.5,选题贴合医师节主题，案例鲜活多元，生动展现医术人文融合，结构稍显平实。
+2026-08-20,doubao-seed-2-1-turbo-260628,doctors_humanism,negative,2,8.5,主题紧扣医师节内核，案例鲜活立体，生动展现医术与人文融合的医者风貌
+2026-08-20,doubao-seed-2-1-turbo-260628,doctors_humanism,neutral,4,8.6,选题新颖，以四位青年医生的爱好串联医术人文，事例鲜活，贴合医师节主题，可读性强。
+2026-08-20,doubao-seed-2-1-turbo-260628,doctors_humanism,negative,1,8.5,主题紧扣医师节内核，案例鲜活多元，生动展现医术与人文融合的青年医者风貌
+2026-08-20,doubao-seed-2-1-turbo-260628,doctors_humanism,negative,3,8.5,紧扣医师节主题，案例鲜活多元，展现医术与人文融合，叙事流畅有感染力。
+2026-08-20,doubao-seed-2-1-turbo-260628,doctors_humanism,neutral,5,8.8,紧扣医师节主题，四位医生案例鲜活详实，生动展现医术人文融合的温度，感染力强。
+2026-08-20,doubao-seed-2-1-turbo-260628,doctors_humanism,negative,4,8.5,主题紧扣医术人文相辅相成核心，案例鲜活典型，生动彰显医者医病也医心的风貌
+2026-08-20,doubao-seed-2-1-turbo-260628,film_review,neutral,2,8.5,影评视角多元，论证扎实有洞见，兼顾文本分析与行业思考，逻辑清晰。
+2026-08-20,doubao-seed-2-1-turbo-260628,film_review,neutral,4,8.5,评析深入扎实，兼具文本细读与行业思考，逻辑清晰，仅部分论述稍显泛化。
+2026-08-20,doubao-seed-2-1-turbo-260628,film_review,neutral,1,8.7,论述深入有见地，兼具文本分析与行业反思，逻辑清晰，仅部分表述稍显泛化。
+2026-08-20,doubao-seed-2-1-turbo-260628,doctors_humanism,negative,5,8.5,紧扣医术人文融合主题，案例多元鲜活有细节，叙事流畅，但形式偏常规，深度稍欠。
+2026-08-20,doubao-seed-2-1-turbo-260628,film_review,neutral,5,8.5,评析深入扎实，兼具文本细读与行业反思，逻辑清晰，仅末尾稍显泛化。
+2026-08-20,doubao-seed-2-1-turbo-260628,film_review,neutral,3,8.5,结合导演创作脉络分析扎实，延伸至行业反思有价值，观点创新性稍弱。
+2026-08-20,doubao-seed-2-1-turbo-260628,film_review,negative,2,7.5,结构完整，有具体影片分析与辩证思考，但部分论述偏空泛，新意不足。
+2026-08-20,doubao-seed-2-1-turbo-260628,film_review,negative,1,7.5,结构清晰，有文本分析与思考深度，但部分论述偏空泛，存在套话。
+2026-08-20,doubao-seed-2-1-turbo-260628,film_review,negative,4,8.2,结构严谨论证有层次，兼具文本分析与行业思考，个别论据缺铺垫，结尾稍空。
+2026-08-20,doubao-seed-2-1-turbo-260628,fund_manager,neutral,1,8.7,真挚务实，结合二十年投研经历谈投资敬畏与职业担当，有洞见有共情。
+2026-08-20,doubao-seed-2-1-turbo-260628,film_review,negative,3,7.0,结构清晰有具体文本分析与独立思考，但部分论断偏绝对，收尾引申稍显空泛。
+2026-08-20,doubao-seed-2-1-turbo-260628,fund_manager,neutral,2,8.5,真挚务实，有行业深度思考与职业反思，行文流畅自然，共情力强。
+2026-08-20,doubao-seed-2-1-turbo-260628,film_review,negative,5,7.0,结构清晰有思考深度，但个别论据存疑，部分观点偏老套，结尾升华稍空泛。
+2026-08-20,doubao-seed-2-1-turbo-260628,fund_manager,neutral,3,8.8,行文真挚诚恳，兼具行业洞察与自我反思，逻辑顺畅，富有共情力。
+2026-08-20,doubao-seed-2-1-turbo-260628,fund_manager,neutral,5,8.5,内容真挚有干货，结合二十年从业经历谈投资认知与职业责任，逻辑清晰有共情力。
+2026-08-20,doubao-seed-2-1-turbo-260628,fund_manager,neutral,4,8.8,文章紧扣有知有畏、但求称职的主题，真挚务实，投研感悟有深度，行文流畅。
+2026-08-20,doubao-seed-2-1-turbo-260628,fund_manager,negative,2,8.0,行文流畅真挚，结合二十年从业经历有深度思考，观点务实，略有冗余。
+2026-08-20,doubao-seed-2-1-turbo-260628,fund_manager,negative,3,8.2,内容真诚有物，结合从业经历的投资与职业反思深刻，行文自然流畅。
+2026-08-20,doubao-seed-2-1-turbo-260628,fund_manager,negative,1,8.0,文章扣题紧密，结构清晰，结合从业实例谈思考，情感真挚，行文流畅。
+2026-08-20,doubao-seed-2-1-turbo-260628,fund_manager,negative,4,7.5,结构清晰，有真实从业感悟与数据支撑，语言平实诚恳，观点新意稍欠。
+2026-08-20,doubao-seed-2-1-turbo-260628,fund_manager,negative,5,8.0,文章逻辑清晰，有真实经历与数据支撑，职业反思诚恳，文笔流畅自然。
+2026-08-20,doubao-seed-2-1-turbo-260628,prehistoric_women,neutral,3,8.7,紧扣性别认知痛点，结合考古案例与书籍观点拆解偏见，逻辑清晰，兼具启发性与现实意义。
+2026-08-20,doubao-seed-2-1-turbo-260628,prehistoric_women,neutral,1,8.8,立意深刻，逻辑清晰，以考古视角拆解性别叙事偏见，兼具知识密度与方法论启发性。
+2026-08-20,doubao-seed-2-1-turbo-260628,prehistoric_women,neutral,2,8.8,视角独特，以考古维度拆解性别叙事建构逻辑，论证扎实，兼具知识性与启发性。
+2026-08-20,doubao-seed-2-1-turbo-260628,prehistoric_women,neutral,4,8.5,紧扣史前女性叙事偏差议题，反思性别认知偏见，逻辑清晰，兼具思想深度与现实意义。
+2026-08-20,doubao-seed-2-1-turbo-260628,prehistoric_women,neutral,5,8.7,以考古视角反思性别叙事偏见，论据扎实，逻辑清晰，兼具思辨深度与现实启发性。
+2026-08-20,doubao-seed-2-1-turbo-260628,prehistoric_women,negative,1,8.0,逻辑清晰，论据较充实，对性别叙事的反思具启发性，部分论断稍显主观
+2026-08-20,doubao-seed-2-1-turbo-260628,prehistoric_women,negative,2,8.5,逻辑清晰，结合考古实证剖析性别叙事偏见，有思辨深度与启发性
+2026-08-20,doubao-seed-2-1-turbo-260628,prehistoric_women,negative,3,8.3,紧扣主题，视角有深度，论据较充分，但部分开篇论断缺乏数据支撑。
+2026-08-20,doubao-seed-2-1-turbo-260628,welding,neutral,1,8.8,主题鲜明，逻辑清晰，立足一线技改实际，兼具实用价值与精神感染力
+2026-08-20,doubao-seed-2-1-turbo-260628,prehistoric_women,negative,5,8.0,选题有现实价值，逻辑清晰有实证支撑，仅开篇论断稍显主观
+2026-08-20,doubao-seed-2-1-turbo-260628,welding,neutral,2,8.6,逻辑清晰，扎根一线实操，兼具实用价值，传递了务实创新的工匠精神。
+2026-08-20,doubao-seed-2-1-turbo-260628,prehistoric_women,negative,4,8.0,观点明确，逻辑顺畅，结合考古案例反思性别叙事，但论证深度稍显不足。
+2026-08-20,doubao-seed-2-1-turbo-260628,welding,neutral,4,9.0,主题明确，叙事详实连贯，真切展现一线技改攻坚与工匠精神，颇具现实意义。
+2026-08-20,doubao-seed-2-1-turbo-260628,welding,neutral,3,8.6,叙事逻辑清晰，一线技改内容扎实有价值，立意正向，富有启发意义
+2026-08-20,doubao-seed-2-1-turbo-260628,welding,negative,2,8.5,结构完整逻辑顺畅，技改内容详实有落地性，贴合一线实际，立意积极。
+2026-08-20,doubao-seed-2-1-turbo-260628,welding,neutral,5,8.8,主题明确，叙事扎实，清晰展现一线技改过程，兼具实用价值与工匠精神内核。
+2026-08-20,doubao-seed-2-1-turbo-260628,welding,negative,4,8.0,结构完整逻辑清晰，贴合一线技改实际，有实用价值，缺量化数据支撑。
+2026-08-20,doubao-seed-2-1-turbo-260628,welding,negative,3,7.8,一线视角真实接地气，逻辑清晰完整，但缺量化数据，标题表述欠精准。
+2026-08-20,doubao-seed-2-1-turbo-260628,welding,negative,5,8.5,逻辑清晰完整，贴合一线生产实际，技改内容详实，唯成效稍缺量化数据支撑
+2026-08-20,doubao-seed-2-1-turbo-260628,welding,negative,1,6.2,结构完整但缺乏量化数据支撑，标题“万向”表述欠严谨，研发细节与感悟偏空泛。
+2026-08-20,doubao-seed-2-1-turbo-260628,alps_glacier,neutral,4,,API调用失败: litellm.NotFoundError: NotFoundError: OpenAIException - Your account 2130960129 has not activated the model doubao-seed-2-1-turbo-260628. Please activate the model service in the Ark Console. Request id: 0217872148703070b63b37cbca791937f2f41fb0469576df3c50d
+2026-08-20,doubao-seed-2-1-turbo-260628,alps_glacier,neutral,5,,API调用失败: litellm.NotFoundError: NotFoundError: OpenAIException - Your account 2130960129 has not activated the model doubao-seed-2-1-turbo-260628. Please activate the model service in the Ark Console. Request id: 021787214870314fd0de7354b348b065f00b895e07126b825c4fb
+2026-08-20,doubao-seed-2-1-turbo-260628,alps_glacier,neutral,3,,API调用失败: litellm.NotFoundError: NotFoundError: OpenAIException - Your account 2130960129 has not activated the model doubao-seed-2-1-turbo-260628. Please activate the model service in the Ark Console. Request id: 021787214870330b4a50cd25f47d4bb7d101bbb29abc51983288f
+2026-08-20,doubao-seed-2-1-turbo-260628,alps_glacier,neutral,2,,API调用失败: litellm.NotFoundError: NotFoundError: OpenAIException - Your account %!s(MISSING) has not activated the model %!s(MISSING). Please activate the model service in the Ark Console. Request id: 021787214870339fc7578b59e843c90e5af4aa62e8cfda94ae39e
+2026-08-20,doubao-seed-2-1-turbo-260628,alps_glacier,neutral,1,,API调用失败: litellm.NotFoundError: NotFoundError: OpenAIException - Your account 2130960129 has not activated the model doubao-seed-2-1-turbo-260628. Please activate the model service in the Ark Console. Request id: 02178721487032175251d478e5bf6426f4e0f08f6c1b2006eba7e
+2026-08-20,doubao-seed-2-1-turbo-260628,alps_glacier,negative,2,,API调用失败: litellm.NotFoundError: NotFoundError: OpenAIException - Your account 2130960129 has not activated the model doubao-seed-2-1-turbo-260628. Please activate the model service in the Ark Console. Request id: 021787214905594fd0de7354b348b065f00b895e07126b86a77b7
+2026-08-20,doubao-seed-2-1-turbo-260628,alps_glacier,negative,3,,API调用失败: litellm.NotFoundError: NotFoundError: OpenAIException - Your account 2130960129 has not activated the model doubao-seed-2-1-turbo-260628. Please activate the model service in the Ark Console. Request id: 021787214905613b4a50cd25f47d4bb7d101bbb29abc5193c6e2d
+2026-08-20,doubao-seed-2-1-turbo-260628,alps_glacier,negative,1,,API调用失败: litellm.NotFoundError: NotFoundError: OpenAIException - Your account %!s(MISSING) has not activated the model %!s(MISSING). Please activate the model service in the Ark Console. Request id: 0217872149055920b63b37cbca791937f2f41fb0469576d249dff
+2026-08-20,doubao-seed-2-1-turbo-260628,alps_glacier,negative,5,,API调用失败: litellm.NotFoundError: NotFoundError: OpenAIException - Your account 2130960129 has not activated the model doubao-seed-2-1-turbo-260628. Please activate the model service in the Ark Console. Request id: 021787214905801b4a50cd25f47d4bb7d101bbb29abc519bbb5a0
+2026-08-20,doubao-seed-2-1-turbo-260628,biotech,neutral,4,8.8,结构清晰，案例数据详实，兼具科普性与产业深度，系统展现生物制造发展图景。
+2026-08-20,doubao-seed-2-1-turbo-260628,biotech,neutral,2,,API调用失败: litellm.NotFoundError: NotFoundError: OpenAIException - Your account 2130960129 has not activated the model doubao-seed-2-1-turbo-260628. Please activate the model service in the Ark Console. Request id: 021787214940972fd0de7354b348b065f00b895e07126b84581d0
+2026-08-20,doubao-seed-2-1-turbo-260628,alps_glacier,negative,4,8.5,论据详实，逻辑顺畅，兼具现场感与现实警示性，写作质量较好。
+2026-08-20,doubao-seed-2-1-turbo-260628,biotech,neutral,3,8.5,结构逻辑清晰，案例详实，融合多方信源，产业图景清晰，但深度略有欠缺。
+2026-08-20,doubao-seed-2-1-turbo-260628,biotech,neutral,1,8.5,结构清晰，信源权威详实，兼具科普性与产业深度，较好展现细胞工厂的创新力量。
+2026-08-20,doubao-seed-2-1-turbo-260628,biotech,neutral,5,8.5,紧扣主题，逻辑清晰，案例数据详实，兼顾产业现状、挑战与发展前景。
+2026-08-20,doubao-seed-2-1-turbo-260628,biotech,negative,1,8.0,结构清晰，案例、数据与专家观点详实，科普性强，但产业深度挖掘略有不足。
+2026-08-20,doubao-seed-2-1-turbo-260628,biotech,negative,2,8.2,结构清晰，案例数据详实，科普性较强，但内容深度略有不足。
+2026-08-20,doubao-seed-2-1-turbo-260628,coffee_industry,neutral,2,9.0,紧扣主题，案例详实，逻辑清晰，完整展现上海咖啡产业从消费到集聚的升级路径。
+2026-08-20,doubao-seed-2-1-turbo-260628,coffee_industry,neutral,1,9.2,报道脉络清晰，案例数据详实，全面展现上海咖啡产业的升级与开放格局。
+2026-08-20,doubao-seed-2-1-turbo-260628,biotech,negative,3,8.0,结构清晰，案例数据详实，全面呈现生物制造产业，深度略有不足。
+2026-08-20,doubao-seed-2-1-turbo-260628,coffee_industry,neutral,3,9.0,文章逻辑清晰，案例详实，生动展现上海咖啡产业升级路径，兼具深度与可读性。
+2026-08-20,doubao-seed-2-1-turbo-260628,biotech,negative,5,7.8,结构清晰逻辑顺畅，案例数据详实，兼具科普与产业价值，部分表述欠严谨。
+2026-08-20,doubao-seed-2-1-turbo-260628,coffee_industry,neutral,4,9.2,结构清晰，案例数据详实，多维度论证上海咖啡产业升级集聚，说服力强。
+2026-08-20,doubao-seed-2-1-turbo-260628,coffee_industry,neutral,5,9.2,选题具产业观察价值，内容详实有数据支撑，逻辑清晰，展现上海咖啡产业升级脉络
+2026-08-20,doubao-seed-2-1-turbo-260628,biotech,negative,4,6.5,存在政策表述不严谨问题，结构清晰但较常规，多为公开观点整合，缺乏原创深度分析。
+2026-08-20,doubao-seed-2-1-turbo-260628,coffee_industry,negative,1,8.5,主题明确，结构清晰，案例数据详实，较好展现上海咖啡产业升级与开放格局。
+2026-08-20,doubao-seed-2-1-turbo-260628,coffee_industry,negative,2,8.2,逻辑清晰，案例数据丰富，展现上海咖啡产业集聚路径，视角稍显单一。
+2026-08-20,doubao-seed-2-1-turbo-260628,cycling_essay,neutral,1,8.5,以骑行往事勾连写作与生命体悟，细节鲜活，情感真挚，思考有分量。
+2026-08-20,doubao-seed-2-1-turbo-260628,cycling_essay,neutral,2,8.5,文字平实真挚，以骑行经历勾连记忆与写作，细节鲜活，叩问意义有温度。
+2026-08-20,doubao-seed-2-1-turbo-260628,coffee_industry,negative,4,8.0,主题明确，案例详实逻辑清晰，部分数据与表述的严谨性有待提升
+2026-08-20,doubao-seed-2-1-turbo-260628,cycling_essay,neutral,3,8.7,以骑行出书为引，串联亲历细节与创作哲思，情感真挚，意蕴绵长。
+2026-08-20,doubao-seed-2-1-turbo-260628,cycling_essay,neutral,5,8.5,以骑行出书经历串联回忆与思考，细节鲜活，对写作与意义的体悟真切动人。
+2026-08-20,doubao-seed-2-1-turbo-260628,cycling_essay,neutral,4,8.7,文字真挚细腻，以骑行经历串联记忆与创作，兼具生活质感与哲思。
+2026-08-20,doubao-seed-2-1-turbo-260628,coffee_industry,negative,3,8.0,主题鲜明，结构严谨，案例数据详实，清晰呈现上海咖啡产业的升级与开放格局。
+2026-08-20,doubao-seed-2-1-turbo-260628,coffee_industry,negative,5,7.8,结构清晰，案例丰富，逻辑连贯，但部分论据缺乏权威支撑，严谨性不足。
+2026-08-20,doubao-seed-2-1-turbo-260628,cycling_essay,negative,3,8.5,文章以骑行经历串起鲜活细节，感悟真切自然，兼具生活质感与思想温度。
+2026-08-20,doubao-seed-2-1-turbo-260628,cycling_essay,negative,1,8.2,文字细腻真挚，细节饱满，借骑行感悟探讨记忆与意义，余味悠长。
+2026-08-20,doubao-seed-2-1-turbo-260628,cycling_essay,negative,4,8.4,文字平实恳切，细节鲜活动人，由骑行生发的思考真切，意蕴悠长。
+2026-08-20,doubao-seed-2-1-turbo-260628,cycling_essay,negative,2,8.2,文字平实有温度，以骑行经历勾连写作与生命思考，细节动人。
+2026-08-20,doubao-seed-2-1-turbo-260628,doctors_humanism,neutral,1,9.0,紧扣医师节主题，案例鲜活立体，生动诠释医术与人文相辅相成的内核，叙事清晰。
+2026-08-20,doubao-seed-2-1-turbo-260628,cycling_essay,negative,5,8.5,文章以骑行经历串联创作与人生感悟，细节鲜活，情感真挚，富有哲思。
+2026-08-20,doubao-seed-2-1-turbo-260628,doctors_humanism,neutral,2,8.5,紧扣医师节主题，展现四位青年医生医术与人文的融合，事例鲜活有温度。
+2026-08-20,doubao-seed-2-1-turbo-260628,doctors_humanism,neutral,4,8.8,紧扣医师节主题，选材典型多元，生动展现医术与人文融合的医者风貌，温暖有感染力。
+2026-08-20,doubao-seed-2-1-turbo-260628,doctors_humanism,neutral,5,8.5,紧扣医师节主题，案例典型鲜活，生动诠释医术人文融合，稍缺整体收尾升华。
+2026-08-20,doubao-seed-2-1-turbo-260628,doctors_humanism,negative,1,8.5,紧扣医术人文主题，案例鲜活详实，叙事流畅有温度，结构稍显常规。
+2026-08-20,doubao-seed-2-1-turbo-260628,doctors_humanism,negative,2,8.5,主题鲜明贴合医师节语境，群像鲜活有细节，较好诠释医术与人文的融合。
+2026-08-20,doubao-seed-2-1-turbo-260628,doctors_humanism,neutral,3,8.6,紧扣医师节主题，案例鲜活多元，生动展现医术与人文融合，富有温度与感染力。
+2026-08-20,doubao-seed-2-1-turbo-260628,doctors_humanism,negative,3,8.6,主题紧扣医师节内核，案例鲜活典型，行文流畅，生动诠释医术人文融合理念。
+2026-08-20,doubao-seed-2-1-turbo-260628,doctors_humanism,negative,4,8.5,主题鲜明契合医师节语境，案例鲜活饱满，生动诠释医术人文融合的医者风貌
+2026-08-20,doubao-seed-2-1-turbo-260628,doctors_humanism,negative,5,8.5,主题鲜明紧扣医师节，案例鲜活详实，生动诠释医术与人文融合的医者风貌
+2026-08-20,doubao-seed-2-1-turbo-260628,film_review,neutral,3,8.5,分析扎实有深度，结构完整逻辑清晰，结合文本与创作生态展开，略有泛化之嫌。
+2026-08-20,doubao-seed-2-1-turbo-260628,film_review,neutral,2,8.5,文章论证层次清晰，从影片分析延伸至行业反思，观点明确论据扎实。
+2026-08-20,doubao-seed-2-1-turbo-260628,film_review,neutral,4,8.5,文章结构清晰，论证扎实有深度，从影片评析延伸至行业反思，颇具启发性。
+2026-08-20,doubao-seed-2-1-turbo-260628,film_review,neutral,1,8.7,论证层层递进，兼具文本细读与行业反思，见解深刻，个别用例稍显突兀。
+2026-08-20,doubao-seed-2-1-turbo-260628,film_review,neutral,5,8.7,分析深入扎实，兼具文本与行业思考，个别论述稍显松散突兀。
+2026-08-20,doubao-seed-2-1-turbo-260628,film_review,negative,1,7.5,文章结构清晰，有具体文本分析与思考，但后半段升华偏空泛，论述稍散。
+2026-08-20,doubao-seed-2-1-turbo-260628,film_review,negative,3,7.8,观点明确，论证有层次且有细节支撑，但部分延伸论述稍显空泛突兀。
+2026-08-20,doubao-seed-2-1-turbo-260628,film_review,negative,5,7.8,文章结构清晰，论说有层次，影片分析较深入，但部分观点稍显空泛绝对。
+2026-08-20,doubao-seed-2-1-turbo-260628,film_review,negative,2,7.5,结构清晰，分析较充实，但观点新意不足，结尾拔高稍显生硬。
+2026-08-20,doubao-seed-2-1-turbo-260628,film_review,negative,4,8.0,结构清晰，有文本分析与行业思考，但部分论断偏绝对，结尾稍显空泛。
+2026-08-20,doubao-seed-2-1-turbo-260628,fund_manager,neutral,1,8.7,文章真挚详实，结合二十年投研经历谈投资感悟与职业坚守，富有启发性。
+2026-08-20,doubao-seed-2-1-turbo-260628,fund_manager,neutral,2,8.7,真挚务实，兼具投资洞察与职业反思，有实据支撑，价值观正向，共情力强。
+2026-08-20,doubao-seed-2-1-turbo-260628,fund_manager,neutral,5,8.5,行文真诚有深度，结合从业经历谈投资认知与职业责任，逻辑顺畅有感染力
+2026-08-20,doubao-seed-2-1-turbo-260628,fund_manager,neutral,4,8.8,内容真诚有深度，结合20年从业经历谈投资感悟与职业责任，逻辑顺畅，共情力强。
+2026-08-20,doubao-seed-2-1-turbo-260628,fund_manager,neutral,3,8.8,紧扣主题，结合二十年从业经历谈投资与职业责任，情真意切有深度。
+2026-08-20,doubao-seed-2-1-turbo-260628,fund_manager,negative,1,8.1,有真实从业经历与数据支撑，职业思考有深度，行文流畅，情感诚恳。
+2026-08-20,doubao-seed-2-1-turbo-260628,fund_manager,negative,2,8.0,结合二十年投研从业经历谈感悟，有实据有思考，平实真诚，逻辑清晰。
+2026-08-20,doubao-seed-2-1-turbo-260628,fund_manager,negative,5,8.2,结合二十年投研经历谈投资与职业认知，内容扎实真挚，自省通透，富有启发性。
+2026-08-20,doubao-seed-2-1-turbo-260628,fund_manager,negative,3,7.8,行文流畅，主题明确，从业感悟真切务实，但观点偏常规，创新性不足。
+2026-08-20,doubao-seed-2-1-turbo-260628,prehistoric_women,neutral,2,8.5,以考古视角切入性别议题，逻辑清晰，兼具思想深度与科普价值，启发性强。
+2026-08-20,doubao-seed-2-1-turbo-260628,prehistoric_women,neutral,1,8.5,选题具现实意义，以考古视角反思性别叙事偏见，有深度，结构稍欠紧凑。
+2026-08-20,doubao-seed-2-1-turbo-260628,prehistoric_women,neutral,5,8.5,视角独特，以考古维度反思性别叙事偏见，论据扎实，兼具知识性与启发性。
+2026-08-20,doubao-seed-2-1-turbo-260628,prehistoric_women,neutral,4,8.5,以考古视角切入性别议题，有实证支撑，逻辑清晰，兼具知识性与思想启发性。
+2026-08-20,doubao-seed-2-1-turbo-260628,fund_manager,negative,4,7.0,文章结构清晰，有实例支撑，感悟真切，但观点新意不足，略有自矜。
+2026-08-20,doubao-seed-2-1-turbo-260628,prehistoric_women,neutral,3,8.5,选题具现实关怀，观点有深度且论据扎实，唯结构稍欠紧凑，启发性强。
+2026-08-20,doubao-seed-2-1-turbo-260628,prehistoric_women,negative,2,8.2,逻辑清晰，视角新颖有深度，论据较充实，但开篇部分论断缺乏实证支撑。
+2026-08-20,doubao-seed-2-1-turbo-260628,prehistoric_women,negative,3,8.1,视角有深度，逻辑顺畅，结合考古实证，但开篇部分论断缺乏数据支撑
+2026-08-20,doubao-seed-2-1-turbo-260628,prehistoric_women,negative,4,8.0,逻辑清晰，兼具现实关照与考古实证，观点有启发性，结构略有重复。
+2026-08-20,doubao-seed-2-1-turbo-260628,prehistoric_women,negative,5,8.5,视角新颖，结合考古实例剖析性别认知偏差，逻辑清晰，兼具思想深度与启发性。
+2026-08-20,doubao-seed-2-1-turbo-260628,prehistoric_women,negative,1,8.0,观点有深度，论据扎实，逻辑清晰，但部分内容存在重复，结构可更紧凑。
+2026-08-20,doubao-seed-2-1-turbo-260628,welding,neutral,1,9.2,主题鲜明，结构完整逻辑顺畅，立足一线技改有实据，彰显工匠精神与实用价值。
+2026-08-20,doubao-seed-2-1-turbo-260628,welding,neutral,2,9.0,主题鲜明，结构完整，一线技改内容详实，传递出务实创新的工匠精神。
+2026-08-20,doubao-seed-2-1-turbo-260628,welding,neutral,4,8.5,主题明确，逻辑清晰，一线技改实例详实，兼具实用价值与思想启发
+2026-08-20,doubao-seed-2-1-turbo-260628,welding,neutral,3,9.0,逻辑清晰，内容详实，紧扣一线技改主题，彰显工匠精神，缺定量数据支撑。
+2026-08-20,doubao-seed-2-1-turbo-260628,welding,neutral,5,9.0,主题鲜明，逻辑清晰，详实展现一线技改过程与价值，兼具专业性与感染力
+2026-08-20,doubao-seed-2-1-turbo-260628,welding,negative,5,8.5,逻辑清晰，技改内容详实贴合一线，实用价值高，唯部分成效表述稍笼统。
+2026-08-20,doubao-seed-2-1-turbo-260628,welding,negative,1,6.8,结构完整贴合一线实际，但标题略有夸大，缺乏技术细节与量化成效，说服力不足。
+2026-08-20,doubao-seed-2-1-turbo-260628,welding,negative,3,8.5,文章结构完整、逻辑清晰，详实呈现一线技改全流程，技术细节可进一步深化。
+2026-08-20,doubao-seed-2-1-turbo-260628,welding,negative,2,7.0,结构清晰，贴合一线技改实际，但缺乏量化成效数据，技术细节有待完善
+2026-08-20,doubao-seed-2-1-turbo-260628,welding,negative,4,5.5,"技术表述模糊，核心成效无量化数据支撑，标题""万向调节器""名实不符，内容偏宣传化。"
+2026-08-20,doubao-seed-2-1-turbo-260628,alps_glacier,neutral,1,9.0,紧扣气候危机热点，有现场细节与权威数据支撑，逻辑清晰，警示性强。
+2026-08-20,doubao-seed-2-1-turbo-260628,alps_glacier,neutral,5,8.8,紧扣气候危机主题，论据详实有现场感，逻辑清晰，警示意义突出
+2026-08-20,doubao-seed-2-1-turbo-260628,alps_glacier,neutral,3,8.5,内容详实，兼具案例与权威数据，逻辑清晰，有较强的气候警示意义。
+2026-08-20,doubao-seed-2-1-turbo-260628,alps_glacier,neutral,4,9.0,点面结合，数据详实，逻辑清晰，扣题紧密，兼具纪实性与警示意义。
+2026-08-20,doubao-seed-2-1-turbo-260628,alps_glacier,neutral,2,8.6,以瑞士冰川消融为切口，有现场细节与权威数据，逻辑清晰，凸显气候危机紧迫性。
+2026-08-20,doubao-seed-2-1-turbo-260628,alps_glacier,negative,1,8.5,结构清晰，素材详实有说服力，兼具现场感染力与现实警示意义
+2026-08-20,doubao-seed-2-1-turbo-260628,alps_glacier,negative,4,8.5,逻辑清晰，数据详实，兼具现场感与警示性，紧扣气候变化议题，整体质量较好。
+2026-08-20,doubao-seed-2-1-turbo-260628,alps_glacier,negative,2,8.8,结构清晰逻辑严谨，数据案例详实，兼具现场感与深度，主题鲜明有警示意义
+2026-08-20,doubao-seed-2-1-turbo-260628,biotech,neutral,1,8.5,结构清晰，案例数据详实，兼具科普性与产业深度，较好展现细胞工厂的创新价值。
+2026-08-20,doubao-seed-2-1-turbo-260628,alps_glacier,negative,3,8.0,结构清晰，论据详实有层次，兼具现场感与深度，但未来设定未明确易引发误解。
+2026-08-20,doubao-seed-2-1-turbo-260628,biotech,neutral,2,8.5,结构清晰，案例数据详实，结合政策与产业实际，全面展现生物制造发展图景。
+2026-08-20,doubao-seed-2-1-turbo-260628,biotech,neutral,3,8.7,结构清晰，案例数据详实，结合多方观点解读生物制造，兼具科普与产业参考价值。
+2026-08-20,doubao-seed-2-1-turbo-260628,alps_glacier,negative,5,8.0,逻辑清晰，案例数据详实，兼具现场感与警示性，唯应对方案着墨较少。
+2026-08-20,doubao-seed-2-1-turbo-260628,biotech,neutral,4,8.7,结构清晰，案例与数据详实，兼具科普性与产业分析，内容紧扣主题。
+2026-08-20,doubao-seed-2-1-turbo-260628,biotech,neutral,5,8.7,结构清晰，案例与权威观点详实，兼具科普性与产业价值，主题鲜明。
+2026-08-20,doubao-seed-2-1-turbo-260628,biotech,negative,1,8.5,结构清晰，案例与专家观点详实，逻辑顺畅，专业度与可读性兼具。
+2026-08-20,doubao-seed-2-1-turbo-260628,biotech,negative,2,8.0,结构清晰，案例数据详实，兼具科普性与专业性，原创深度略有不足。
+2026-08-20,doubao-seed-2-1-turbo-260628,coffee_industry,neutral,1,9.0,主题鲜明，论据充分，逻辑清晰，完整呈现上海咖啡产业从消费高地向产业集聚的升级。
+2026-08-20,doubao-seed-2-1-turbo-260628,coffee_industry,neutral,2,9.0,结构清晰，案例详实，清晰展现上海从咖啡消费高地到产业集聚的升级路径，兼具深度与可读性
+2026-08-20,doubao-seed-2-1-turbo-260628,biotech,negative,3,7.5,结构清晰，案例数据详实，对生物制造产业解析较全面，深度略有不足。
+2026-08-20,doubao-seed-2-1-turbo-260628,biotech,negative,4,7.5,结构清晰案例详实，兼具科普性与产业参考性，部分表述欠严谨，深度有待提升。
+2026-08-20,doubao-seed-2-1-turbo-260628,biotech,negative,5,8.2,结构清晰，案例数据详实，兼具科普性与产业深度，部分表述可更严谨。
+2026-08-20,doubao-seed-2-1-turbo-260628,coffee_industry,neutral,3,9.0,主题鲜明，脉络清晰，案例数据详实，充分展现上海咖啡产业的升级与开放格局。
+2026-08-20,doubao-seed-2-1-turbo-260628,coffee_industry,neutral,5,9.0,结构清晰，案例详实，逻辑严谨，清晰展现上海咖啡产业升级路径，说服力强。
+2026-08-20,doubao-seed-2-1-turbo-260628,coffee_industry,negative,1,8.0,结构清晰，案例详实，逻辑连贯，较好展现上海咖啡产业的升级脉络。
+2026-08-20,doubao-seed-2-1-turbo-260628,coffee_industry,negative,2,7.8,脉络清晰、案例较丰富，但部分表述欠严谨，产业分析深度有待加强。
+2026-08-20,doubao-seed-2-1-turbo-260628,coffee_industry,negative,4,8.0,主题明确，结构清晰，案例数据详实，产业逻辑顺畅，深度略有不足。
+2026-08-20,doubao-seed-2-1-turbo-260628,cycling_essay,neutral,1,8.5,以骑行出书为线索，串联鲜活细节，对记忆、写作与意义的思考细腻动人。
+2026-08-20,doubao-seed-2-1-turbo-260628,coffee_industry,negative,3,7.5,结构清晰逻辑顺畅，案例详实，但视角偏单一，部分表述缺权威支撑，深度不足。
+2026-08-20,doubao-seed-2-1-turbo-260628,cycling_essay,neutral,2,8.8,以骑行往事勾连创作与人生体悟，细节鲜活动人，情感真挚意蕴悠长。
+2026-08-20,doubao-seed-2-1-turbo-260628,cycling_essay,neutral,5,8.7,文笔细腻真挚，以骑行经历勾连记忆与创作思考，有温度且有余味。
+2026-08-20,doubao-seed-2-1-turbo-260628,cycling_essay,neutral,4,8.6,以骑行经历串联创作与生命思考，细节鲜活动人，情感真挚有哲思
+2026-08-20,doubao-seed-2-1-turbo-260628,coffee_industry,negative,5,7.5,结构清晰案例丰富，但存在事实偏差，部分表述缺乏依据，严谨性有待提升。
+2026-08-20,doubao-seed-2-1-turbo-260628,cycling_essay,neutral,3,8.5,扣“长路更长”之题，以骑行经历串联记忆与写作感悟，细节鲜活，体悟真切
+2026-08-20,doubao-seed-2-1-turbo-260628,cycling_essay,negative,1,8.5,文字真挚细腻，细节鲜活，于骑行经历中融入对记忆与生命意义的深度思考
+2026-08-20,doubao-seed-2-1-turbo-260628,cycling_essay,negative,3,8.2,文字细腻真挚，以骑行经历串联记忆与思考，意蕴悠长，略有散冗。
+2026-08-20,doubao-seed-2-1-turbo-260628,cycling_essay,negative,4,8.3,文字真挚细腻，细节鲜活动人，对记忆与行旅意义的思考颇具感染力
+2026-08-20,doubao-seed-2-1-turbo-260628,doctors_humanism,neutral,1,9.0,紧扣医师节主题，以四位青年医生的人文爱好切入，鲜活有温度，契合“医病医心”核心。
+2026-08-20,doubao-seed-2-1-turbo-260628,cycling_essay,negative,5,8.5,行文平实细腻，细节鲜活动人，以骑行经历串联对自我与写作的深度思考
+2026-08-20,doubao-seed-2-1-turbo-260628,cycling_essay,negative,2,8.2,细节鲜活生动，情感真挚，于骑行经历中融入对记忆与意义的思考，文笔流畅。
+2026-08-20,doubao-seed-2-1-turbo-260628,doctors_humanism,neutral,2,9.0,紧扣医师节主题，案例鲜活多元，生动诠释医术与人文融合的医者风貌，富有感染力。
+2026-08-20,doubao-seed-2-1-turbo-260628,doctors_humanism,neutral,3,8.8,紧扣医师节主题，四个案例鲜活扎实，生动诠释医术人文融合，富有人文温度。
+2026-08-20,doubao-seed-2-1-turbo-260628,doctors_humanism,neutral,4,8.5,主题紧扣医师节内核，案例典型鲜活，生动诠释医术与人文融合的医者温度
+2026-08-20,doubao-seed-2-1-turbo-260628,doctors_humanism,neutral,5,8.5,紧扣医师节主题，案例鲜活有温度，生动诠释医术人文融合，叙事结构稍显平实。
+2026-08-20,doubao-seed-2-1-turbo-260628,doctors_humanism,negative,1,8.5,主题紧扣医师节内核，案例鲜活详实，清晰展现医术与人文融合，叙事流畅有感染力。
+2026-08-20,doubao-seed-2-1-turbo-260628,doctors_humanism,negative,2,8.5,主题明确贴合医术人文内核，案例鲜活详实，叙事流畅，但结构偏平铺直叙。
+2026-08-20,doubao-seed-2-1-turbo-260628,doctors_humanism,negative,4,8.5,紧扣医师节主题，案例鲜活典型，结构清晰，展现医术人文融合风貌，叙事稍显平实
+2026-08-20,doubao-seed-2-1-turbo-260628,doctors_humanism,negative,3,8.5,主题紧扣医师节内核，案例鲜活多元、细节扎实，唯结尾稍欠收束
+2026-08-20,doubao-seed-2-1-turbo-260628,film_review,neutral,1,8.8,文章结构完整，论证扎实有深度，兼顾文本与行业反思，仅结尾稍显泛化。
+2026-08-20,doubao-seed-2-1-turbo-260628,doctors_humanism,negative,5,8.3,主题契合医师节定位，案例扎实有细节，叙事流畅，但结构偏常规，深度略有不足。
+2026-08-20,doubao-seed-2-1-turbo-260628,film_review,neutral,2,8.7,评析全面深入，兼顾影片文本与创作生态，逻辑清晰，部分论述稍显泛化。
+2026-08-20,doubao-seed-2-1-turbo-260628,film_review,neutral,3,8.5,观点鲜明，论证层次清晰，兼具文本细读与行业反思，末尾升华稍显泛化。
+2026-08-20,doubao-seed-2-1-turbo-260628,film_review,neutral,5,8.5,评析深入有章法，兼顾影片细节与行业反思，见解独到，收尾稍显空泛。
+2026-08-20,doubao-seed-2-1-turbo-260628,film_review,neutral,4,8.5,论证扎实有深度，逻辑清晰，兼具文本分析与行业思考，个别论述稍泛。
+2026-08-20,doubao-seed-2-1-turbo-260628,film_review,negative,1,8.0,文章结构清晰，分析有层次有见地，兼具文本与行业思考，部分论述稍空泛。
+2026-08-20,doubao-seed-2-1-turbo-260628,film_review,negative,2,7.2,影评逻辑清晰，有具体文本与创作脉络分析，但行业延伸稍生硬，升华偏空泛。
+2026-08-20,doubao-seed-2-1-turbo-260628,film_review,negative,3,7.5,结构清晰，有具体文本分析与独立观点，但后半段引申稍显空泛。
+2026-08-20,doubao-seed-2-1-turbo-260628,fund_manager,neutral,1,8.6,行文真挚诚恳，有具体事例支撑，职业感悟有深度，紧扣‘有知有畏但求称职’主题。
+2026-08-20,doubao-seed-2-1-turbo-260628,film_review,negative,5,8.0,逻辑清晰有层次，影片分析与行业反思均有见地，部分表述稍显空泛。
+2026-08-20,doubao-seed-2-1-turbo-260628,film_review,negative,4,7.5,影评逻辑顺畅，有文本细读与行业反思，但部分观点稍显空泛，缺乏新意。
+2026-08-20,doubao-seed-2-1-turbo-260628,fund_manager,neutral,2,8.8,立意端正，内容扎实有细节，反思深刻有洞见，行文真挚流畅有共情。
+2026-08-20,doubao-seed-2-1-turbo-260628,fund_manager,neutral,3,8.5,文章紧扣主题，结合二十年从业经历与数据谈投资与职业认知，真诚有深度。
+2026-08-20,doubao-seed-2-1-turbo-260628,fund_manager,neutral,4,8.8,内容真诚扎实，结合二十年从业经历输出投资与职业思考，有洞见有温度，结构完整。
+2026-08-20,doubao-seed-2-1-turbo-260628,fund_manager,neutral,5,8.7,内容真挚扎实，数据详实，兼具投研洞察与职业反思，主题明确有启发。
+2026-08-20,doubao-seed-2-1-turbo-260628,fund_manager,negative,1,8.2,文章结构完整，逻辑顺畅，结合数据实例，从业感悟真挚有深度。
+2026-08-20,doubao-seed-2-1-turbo-260628,coffee_industry,neutral,4,9.0,主题鲜明，结构清晰，案例详实，清晰展现上海咖啡产业的升级与开放路径。
+2026-08-20,doubao-seed-2-1-turbo-260628,fund_manager,negative,4,8.0,结构清晰，扣题紧密，结合二十年从业经历有真实思考，情真意切。
+2026-08-20,doubao-seed-2-1-turbo-260628,fund_manager,negative,5,8.2,文章结构完整，内容有实据支撑，职业感悟真诚恳切，具备一定思考深度
+2026-08-20,doubao-seed-2-1-turbo-260628,fund_manager,negative,3,7.8,结合二十年投研经历分享感悟，内容真诚有实据，逻辑顺畅，仅观点稍显常规。
+2026-08-20,doubao-seed-2-1-turbo-260628,prehistoric_women,neutral,2,8.5,以考古视角拆解性别叙事偏见，有现实锐度与认知深度，仅开篇引入稍显泛化。
+2026-08-20,doubao-seed-2-1-turbo-260628,fund_manager,negative,2,7.0,行文流畅、结构清晰，有真实从业感悟与数据支撑，但观点偏常规，新意不足。
+2026-08-20,doubao-seed-2-1-turbo-260628,prehistoric_women,neutral,3,8.8,视角新颖，从考古维度反思性别叙事偏见，逻辑清晰，兼具思想深度与启发性。
+2026-08-20,doubao-seed-2-1-turbo-260628,prehistoric_women,neutral,5,8.5,结合考古实证与书籍评介反思性别叙事偏见，逻辑清晰，兼具思想深度与科普价值。
+2026-08-20,doubao-seed-2-1-turbo-260628,prehistoric_women,neutral,4,8.8,文章立足性别议题现实困境，结合考古案例与书籍内核，逻辑清晰，兼具思想深度与启发性。
+2026-08-20,doubao-seed-2-1-turbo-260628,prehistoric_women,neutral,1,8.5,视角独到，结合现实痛点与考古实证剖析性别认知偏见，启发性强，结构稍散。
+2026-08-20,doubao-seed-2-1-turbo-260628,prehistoric_women,negative,1,8.5,逻辑清晰，结合考古案例反思性别认知偏见，兼具思想深度与启发性。
+2026-08-20,doubao-seed-2-1-turbo-260628,prehistoric_women,negative,2,8.0,主题明确有现实意义，逻辑清晰论据扎实，具思辨深度，结构可更紧凑。
+2026-08-20,doubao-seed-2-1-turbo-260628,welding,neutral,2,8.5,逻辑清晰，内容详实贴合一线，展现技改实效与工匠精神，富有感染力。
+2026-08-20,doubao-seed-2-1-turbo-260628,welding,neutral,1,8.8,结构清晰，内容详实，一线技改案例真实可感，彰显工匠精神，语言流畅。
+2026-08-20,doubao-seed-2-1-turbo-260628,prehistoric_women,negative,4,8.0,逻辑清晰，结合考古案例探讨性别认知偏差，有思想深度，部分表述稍显主观
+2026-08-20,doubao-seed-2-1-turbo-260628,prehistoric_women,negative,3,8.0,逻辑清晰，观点具启发性，有实证支撑，部分初始观感类论断稍显主观。
+2026-08-20,doubao-seed-2-1-turbo-260628,prehistoric_women,negative,5,8.0,视角新颖，逻辑顺畅，考古实例有说服力，部分开篇论断缺乏实证支撑。
+2026-08-20,doubao-seed-2-1-turbo-260628,welding,neutral,4,8.5,结构清晰逻辑顺畅，立足一线技改实际，内容扎实，兼具实用性与正向意义
+2026-08-20,doubao-seed-2-1-turbo-260628,welding,neutral,3,8.5,主题鲜明，叙事逻辑清晰，技改内容详实有价值，唯语言稍显平实。
+2026-08-20,doubao-seed-2-1-turbo-260628,welding,neutral,5,8.5,主题鲜明，结构完整，内容扎实，立足一线技改，兼具实用价值与正向意义。
+2026-08-20,doubao-seed-2-1-turbo-260628,welding,negative,5,8.5,逻辑清晰，详实呈现一线技改全流程，贴合生产实际，立意正向，表述平实。
+2026-08-20,doubao-seed-2-1-turbo-260628,welding,negative,3,8.5,文章逻辑清晰，贴合一线实际，技改内容务实，但缺少量化数据，细节支撑不足。
+2026-08-20,doubao-seed-2-1-turbo-260628,welding,negative,1,8.0,结构完整逻辑清晰，贴合一线技改场景，内容详实有成效，但缺少具体量化数据支撑。
+2026-08-20,doubao-seed-2-1-turbo-260628,welding,negative,4,8.0,文章结构完整逻辑清晰，贴合一线技改实际，内容详实，实用性较强。
+2026-08-20,doubao-seed-2-1-turbo-260628,welding,negative,2,7.0,结构清晰贴合一线施工实际，但标题略有夸大，成效缺乏具体量化数据。
