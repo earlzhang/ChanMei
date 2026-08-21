@@ -1969,3 +1969,93 @@ eval_date,model,article_id,scenario,run_index,score,reason
 2026-08-20,doubao-seed-2-1-turbo-260628,welding,negative,1,8.0,结构完整逻辑清晰，贴合一线技改场景，内容详实有成效，但缺少具体量化数据支撑。
 2026-08-20,doubao-seed-2-1-turbo-260628,welding,negative,4,8.0,文章结构完整逻辑清晰，贴合一线技改实际，内容详实，实用性较强。
 2026-08-20,doubao-seed-2-1-turbo-260628,welding,negative,2,7.0,结构清晰贴合一线施工实际，但标题略有夸大，成效缺乏具体量化数据。
+2026-08-21,qwen3.8-27b,alps_glacier,neutral,5,8.8,结构清晰，数据与现场细节结合，主题突出；结尾略口号化，整体完成度高。
+2026-08-21,qwen3.8-27b,alps_glacier,neutral,1,8.8,主题鲜明，数据与现场结合，逻辑清晰，结尾稍显口号化。
+2026-08-21,qwen3.8-27b,alps_glacier,neutral,2,8.5,主题清晰，数据案例充实，语言流畅；个别表述稍显夸张，逻辑可再严谨。
+2026-08-21,qwen3.8-27b,alps_glacier,neutral,4,8.5,主题清晰，细节与数据结合，结构完整；结尾略口号化，整体较强。
+2026-08-21,qwen3.8-27b,alps_glacier,neutral,3,8.5,主题鲜明，数据与现场结合，结构清晰；结尾略口号化，政策与生态影响可再深化。
+2026-08-21,qwen3.8-27b,alps_glacier,negative,4,8.5,结构清晰、数据具体，但结尾略煽情，标题稍显夸张。
+2026-08-21,qwen3.8-27b,alps_glacier,negative,1,8.7,结构清晰，数据与案例充实，论证有力；结尾稍显口号化，个别表述略夸张。
+2026-08-21,qwen3.8-27b,alps_glacier,negative,3,8.5,叙事清晰，数据与现场细节结合较好，但结尾口号化略重，部分判断可再克制。
+2026-08-21,qwen3.8-27b,biotech,neutral,1,9.2,结构清晰、案例丰富、逻辑严谨，兼具科普与产业观察，稍显宣传化。
+2026-08-21,qwen3.8-27b,alps_glacier,negative,5,8.5,主题明确、结构清晰，数据与案例较充分，但个别表述略煽情，来源可更具体。
+2026-08-21,qwen3.8-27b,biotech,neutral,2,8.8,主题鲜明，结构清晰，案例与专家观点丰富；部分数据缺来源，个别表述略泛。
+2026-08-21,qwen3.8-27b,biotech,neutral,3,9.0,结构清晰，案例具体，政策与产业结合好；结尾展望略泛，数据可更严谨。
+2026-08-21,qwen3.8-27b,alps_glacier,negative,2,7.8,结构清晰、数据具体，但部分表述夸张，来源与时点细节不足，结尾口号化。
+2026-08-21,qwen3.8-27b,biotech,neutral,4,8.8,结构清晰、案例丰富、数据具体，产业逻辑完整；个别展望略宏观，可再强化细节。
+2026-08-21,qwen3.8-27b,biotech,neutral,5,9.0,主题鲜明，结构清晰，案例与专家观点充实，语言通俗，略可强化数据核实与结尾力度。
+2026-08-21,qwen3.8-27b,biotech,negative,1,8.5,结构清晰，案例数据丰富，专业解读到位；略偏宣传，深度仍可加强。
+2026-08-21,qwen3.8-27b,biotech,negative,2,8.5,结构清晰，案例与数据充实，兼顾产业逻辑和挑战，语言规范，略有宣传色彩。
+2026-08-21,qwen3.8-27b,biotech,negative,3,8.5,结构清晰、案例具体，但深度与批判性略弱。
+2026-08-21,qwen3.8-27b,biotech,negative,4,8.5,结构清晰、案例具体，但宣传腔略重，数据与来源不够严谨。
+2026-08-21,qwen3.8-27b,biotech,negative,5,8.5,结构清晰，案例与数据丰富，科普与产业结合较好，但部分论述偏宏观，创新表达有限。
+2026-08-21,qwen3.8-27b,coffee_industry,neutral,1,,API调用失败: litellm.BadRequestError: OpenAIException - Input text data may contain inappropriate content.
+2026-08-21,qwen3.8-27b,coffee_industry,neutral,2,,API调用失败: litellm.BadRequestError: OpenAIException - Input text data may contain inappropriate content.
+2026-08-21,qwen3.8-27b,coffee_industry,neutral,3,,API调用失败: litellm.BadRequestError: OpenAIException - Input text data may contain inappropriate content.
+2026-08-21,qwen3.8-27b,coffee_industry,neutral,4,,API调用失败: litellm.BadRequestError: OpenAIException - Input text data may contain inappropriate content.
+2026-08-21,qwen3.8-27b,coffee_industry,neutral,5,,API调用失败: litellm.BadRequestError: OpenAIException - Input text data may contain inappropriate content.
+2026-08-21,qwen3.8-27b,coffee_industry,negative,1,,API调用失败: litellm.BadRequestError: OpenAIException - Input text data may contain inappropriate content.
+2026-08-21,qwen3.8-27b,coffee_industry,negative,2,,API调用失败: litellm.BadRequestError: OpenAIException - Input text data may contain inappropriate content.
+2026-08-21,qwen3.8-27b,coffee_industry,negative,3,,API调用失败: litellm.BadRequestError: OpenAIException - Input text data may contain inappropriate content.
+2026-08-21,qwen3.8-27b,coffee_industry,negative,4,,API调用失败: litellm.BadRequestError: OpenAIException - Input text data may contain inappropriate content.
+2026-08-21,qwen3.8-27b,cycling_essay,neutral,2,8.5,细节真实，语言流畅，主题由骑行延伸至记忆与意义，结构略散但整体动人。
+2026-08-21,qwen3.8-27b,cycling_essay,neutral,3,8.5,细节生动，语言自然，由骑行延伸至记忆与写作，余味足；结构略散，点题稍弱。
+2026-08-21,qwen3.8-27b,coffee_industry,negative,5,,API调用失败: litellm.BadRequestError: OpenAIException - Input text data may contain inappropriate content.
+2026-08-21,qwen3.8-27b,cycling_essay,neutral,1,9.0,细节真切，语言克制，由骑行延展至记忆与意义，结构略散但余味深长。
+2026-08-21,qwen3.8-27b,cycling_essay,neutral,4,8.5,细节真切，语言流畅，情感真挚；主题扣题稍弱，结尾略散。
+2026-08-21,qwen3.8-27b,cycling_essay,neutral,5,8.2,叙事真挚，细节生动，反思有层次；结构略散，点题稍弱。
+2026-08-21,qwen3.8-27b,cycling_essay,negative,1,8.5,细节生动，语言流畅，反思有深度；但结构略散，观点偏个人化。
+2026-08-21,qwen3.8-27b,cycling_essay,negative,2,8.5,文笔流畅，细节动人，反思有深度；稍显散漫，整体优秀。
+2026-08-21,qwen3.8-27b,cycling_essay,negative,3,8.7,叙事从容，细节生动，骑行与写作互文；个别段落稍散，结尾点题略弱。
+2026-08-21,qwen3.8-27b,cycling_essay,negative,4,8.2,叙事真切，细节生动，反思骑行与写作意义，结构略散但余味足。
+2026-08-21,qwen3.8-27b,cycling_essay,negative,5,8.5,叙事自然，细节生动，主题明确；结构稍散，部分段落略冗。
+2026-08-21,qwen3.8-27b,doctors_humanism,neutral,1,9.0,主题鲜明，人物鲜活，结构清晰，语言流畅，充分体现医术与人文融合。
+2026-08-21,qwen3.8-27b,doctors_humanism,neutral,4,8.8,主题鲜明，人物鲜活，细节与引语丰富，结构清晰；略偏宣传。
+2026-08-21,qwen3.8-27b,doctors_humanism,neutral,3,9.0,主题鲜明，结构清晰，人物细节丰富，语言流畅，但部分表达略显套路。
+2026-08-21,qwen3.8-27b,doctors_humanism,neutral,2,9.0,主题鲜明，结构清晰，案例具体，细节生动，体现医术与人文融合，语言流畅。
+2026-08-21,qwen3.8-27b,doctors_humanism,neutral,5,8.8,结构清晰，人物细节丰富，主题鲜明，语言流畅；但宣传色彩稍浓，深度略不足。
+2026-08-21,qwen3.8-27b,doctors_humanism,negative,1,8.0,主题鲜明、结构清晰、人物故事具体，但宣传腔较重，个别表述需核实。
+2026-08-21,qwen3.8-27b,doctors_humanism,negative,3,9.0,主题鲜明，结构清晰，人物细节丰富，语言流畅，略有宣传腔。
+2026-08-21,qwen3.8-27b,doctors_humanism,negative,2,8.5,结构清晰，人物典型，细节丰富，主题突出；略有宣传腔，深度稍弱。
+2026-08-21,qwen3.8-27b,doctors_humanism,negative,5,8.8,主题鲜明，结构清晰，人物细节丰富，语言流畅；宣传感略强。
+2026-08-21,qwen3.8-27b,doctors_humanism,negative,4,8.5,主题鲜明，人物细节丰富，但宣传腔较重、案例同质化，深度略不足。
+2026-08-21,qwen3.8-27b,film_review,neutral,1,8.8,观点清晰，结构完整，语言成熟；但部分论述偏概念化，文本细读可再深入。
+2026-08-21,qwen3.8-27b,film_review,neutral,3,8.5,观点清晰，分析较深入，但部分论述偏抽象，例证仍可更具体。
+2026-08-21,qwen3.8-27b,film_review,neutral,5,8.5,观点鲜明，结构完整，批评有层次；部分论述偏抽象，细节支撑可再充分。
+2026-08-21,qwen3.8-27b,film_review,neutral,2,7.8,观点明确，语言成熟，但论证略空泛，具体例证不足。
+2026-08-21,qwen3.8-27b,film_review,neutral,4,8.3,观点清晰，结构完整，批评有层次；但抽象表达偏多，部分论证稍显泛化。
+2026-08-21,qwen3.8-27b,film_review,negative,1,8.5,观点明确，分析有层次，语言成熟，但结尾略抽象说教。
+2026-08-21,qwen3.8-27b,film_review,negative,2,8.5,观点清晰，分析有深度，但部分论述偏抽象，存在拔高与套话。
+2026-08-21,qwen3.8-27b,film_review,negative,5,8.5,观点清晰，分析有深度，但部分论述偏概念化，略有拔高。
+2026-08-21,qwen3.8-27b,film_review,negative,3,8.5,观点清晰，分析较深，结构完整；部分表述偏大词，结尾说教略重。
+2026-08-21,qwen3.8-27b,film_review,negative,4,8.0,观点清晰，论证较充分，但部分表述偏套话，个别判断略显主观。
+2026-08-21,qwen3.8-27b,fund_manager,neutral,2,9.0,真诚反思，结构清晰，比喻生动，价值观鲜明，略少数据支撑。
+2026-08-21,qwen3.8-27b,fund_manager,neutral,1,8.7,主题真诚，专业洞察与职业伦理兼具，比喻生动，结尾有力；略散但整体完成度高。
+2026-08-21,qwen3.8-27b,fund_manager,neutral,4,9.0,真诚自省，结构清晰，比喻贴切，观点成熟，稍显散漫。
+2026-08-21,qwen3.8-27b,fund_manager,neutral,5,8.8,观点真诚成熟，结构清晰，比喻生动，但个别论证略散，数据与时间需核实。
+2026-08-21,qwen3.8-27b,fund_manager,neutral,3,8.8,结构清晰，反思真诚，比喻生动，语言成熟；个别表达略散文化，深度可再加强。
+2026-08-21,qwen3.8-27b,fund_manager,negative,1,8.8,真诚克制，结构完整，比喻贴切，职业观清晰；少量套话略减分。
+2026-08-21,qwen3.8-27b,fund_manager,negative,2,8.5,观点真诚有行业洞察，结构清晰；但部分表述偏鸡汤，业绩表述略营销。
+2026-08-21,qwen3.8-27b,fund_manager,negative,4,8.5,结构清晰，自省真诚，投资观与行业认知成熟；比喻贴切，结尾有力，个别表达稍显自谦和套话。
+2026-08-21,qwen3.8-27b,fund_manager,negative,3,8.5,真诚成熟，表达流畅，行业认知清晰，略有套话。
+2026-08-21,qwen3.8-27b,fund_manager,negative,5,8.5,结构完整、观点成熟，经验与价值观表达清晰；略缺具体案例与数据支撑，部分表述偏套话。
+2026-08-21,qwen3.8-27b,prehistoric_women,neutral,2,7.5,主题明确，批判视角有新意，但结构略散，论证深度与衔接可加强。
+2026-08-21,qwen3.8-27b,prehistoric_women,neutral,1,7.5,主题明确，观点有深度，但开头略突兀，论证重复且证据展开不足。
+2026-08-21,qwen3.8-27b,prehistoric_women,neutral,4,7.8,观点鲜明，批判性强，但开头衔接略生硬，部分论述重复。
+2026-08-21,qwen3.8-27b,prehistoric_women,negative,1,7.5,观点清晰，例证有力，但部分论述抽象冗长，个别论断需更严谨。
+2026-08-21,qwen3.8-27b,prehistoric_women,neutral,3,7.5,主题清晰，批判有深度，但开头衔接生硬，论证略散，部分证据表述需更严谨。
+2026-08-21,qwen3.8-27b,prehistoric_women,negative,2,7.5,观点清晰，批判性强，但开头泛、论证略空泛，例证可更深入。
+2026-08-21,qwen3.8-27b,prehistoric_women,neutral,5,7.5,观点鲜明，但结构略散，重复较多，结尾未充分回应标题。
+2026-08-21,qwen3.8-27b,prehistoric_women,negative,4,7.5,观点清晰，例证有力，但开头游离、论证偏泛，引用缺少出处。
+2026-08-21,qwen3.8-27b,prehistoric_women,negative,5,7.2,立意清晰，批判有力，但开头离题、证据笼统，部分结论过度。
+2026-08-21,qwen3.8-27b,welding,neutral,2,8.5,选题贴近一线，问题与方案清晰，成效具体，但部分数据与机理可再深化。
+2026-08-21,qwen3.8-27b,welding,neutral,1,8.5,问题聚焦、方案具体、成效明确，语言朴实；若能补充量化数据与试验细节更佳。
+2026-08-21,qwen3.8-27b,prehistoric_women,negative,3,7.5,主题清晰、论证有层次，但开头主观、部分证据需补充，结尾略散。
+2026-08-21,qwen3.8-27b,welding,neutral,3,8.5,结构完整、问题与对策清晰，但成效数据偏少，技术细节可再充实。
+2026-08-21,qwen3.8-27b,welding,neutral,4,8.5,主题明确，结构完整，语言流畅；但缺少具体数据支撑，标题略夸张。
+2026-08-21,qwen3.8-27b,welding,neutral,5,8.0,结构完整、现场感强，但技术细节与数据不足，部分表述偏宣传。
+2026-08-21,qwen3.8-27b,welding,negative,1,8.0,结构清晰，问题与对策明确，但量化数据和技术细节不足，宣传色彩略重。
+2026-08-21,qwen3.8-27b,welding,negative,2,7.8,结构完整、现场感强，但数据不足、效果表述偏泛，标题略夸张。
+2026-08-21,qwen3.8-27b,welding,negative,3,7.5,主题明确、结构完整、现场感强，但数据与技术创新深度不足，部分表述偏宣传。
+2026-08-21,qwen3.8-27b,welding,negative,4,7.5,结构清晰、问题与成效明确，但数据支撑不足，宣传套话较多，技术细节有限。
+2026-08-21,qwen3.8-27b,welding,negative,5,7.5,主题明确、结构完整，应用价值清楚；但数据与机理细节不足，部分表述偏宣传。

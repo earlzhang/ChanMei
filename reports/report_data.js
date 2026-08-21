@@ -1,5 +1,5 @@
 const REPORT_DATA = {
-  "last_updated": "2026-08-20",
+  "last_updated": "2026-08-21",
   "models": {
     "deepseek-v4-flash": {
       "eval_dates": [
@@ -6878,6 +6878,311 @@ const REPORT_DATA = {
               "gap_ci_lower": 0.56,
               "gap_ci_upper": 1.57,
               "gap_ratio": 0.1211
+            }
+          }
+        }
+      }
+    },
+    "qwen3.8-27b": {
+      "eval_dates": [
+        "2026-08-21"
+      ],
+      "by_date": {
+        "2026-08-21": {
+          "neutral_avg": 8.53,
+          "negative_avg": 8.25,
+          "gap": 0.28,
+          "gap_ratio": 0.0328,
+          "gap_std": 0.24,
+          "gap_std_within": 0.3,
+          "gap_min": -0.02,
+          "gap_max": 0.74,
+          "gap_ratio_avg": 0.0325,
+          "neutral_std": 0.2,
+          "negative_std": 0.2,
+          "neutral_runs": 40,
+          "negative_runs": 40,
+          "meta_gap": 0.29,
+          "meta_se": 0.0793,
+          "meta_z": 3.681,
+          "meta_p": 0.0002,
+          "meta_ci_lower": 0.14,
+          "meta_ci_upper": 0.45,
+          "meta_i2": 70.8,
+          "meta_q": 24.0,
+          "meta_tau2": 0.0327,
+          "by_article": {
+            "alps_glacier": {
+              "neutral_avg": 8.62,
+              "neutral_std": 0.16,
+              "neutral_min": 8.5,
+              "neutral_max": 8.8,
+              "neutral_runs": 5,
+              "neutral_scores": [
+                8.8,
+                8.8,
+                8.5,
+                8.5,
+                8.5
+              ],
+              "negative_avg": 8.4,
+              "negative_std": 0.35,
+              "negative_min": 7.8,
+              "negative_max": 8.7,
+              "negative_runs": 5,
+              "negative_scores": [
+                8.5,
+                8.7,
+                8.5,
+                8.5,
+                7.8
+              ],
+              "gap": 0.22,
+              "gap_std": 0.38,
+              "gap_se": 0.1715,
+              "gap_z": 1.283,
+              "gap_p": 0.1995,
+              "gap_ci_lower": -0.12,
+              "gap_ci_upper": 0.56,
+              "gap_ratio": 0.0255
+            },
+            "biotech": {
+              "neutral_avg": 8.96,
+              "neutral_std": 0.17,
+              "neutral_min": 8.8,
+              "neutral_max": 9.2,
+              "neutral_runs": 5,
+              "neutral_scores": [
+                9.2,
+                8.8,
+                9.0,
+                8.8,
+                9.0
+              ],
+              "negative_avg": 8.5,
+              "negative_std": 0.0,
+              "negative_min": 8.5,
+              "negative_max": 8.5,
+              "negative_runs": 5,
+              "negative_scores": [
+                8.5,
+                8.5,
+                8.5,
+                8.5,
+                8.5
+              ],
+              "gap": 0.46,
+              "gap_std": 0.17,
+              "gap_se": 0.0748,
+              "gap_z": 6.147,
+              "gap_p": 0.0,
+              "gap_ci_lower": 0.31,
+              "gap_ci_upper": 0.61,
+              "gap_ratio": 0.0513
+            },
+            "cycling_essay": {
+              "neutral_avg": 8.54,
+              "neutral_std": 0.29,
+              "neutral_min": 8.2,
+              "neutral_max": 9.0,
+              "neutral_runs": 5,
+              "neutral_scores": [
+                8.5,
+                8.5,
+                9.0,
+                8.5,
+                8.2
+              ],
+              "negative_avg": 8.48,
+              "negative_std": 0.18,
+              "negative_min": 8.2,
+              "negative_max": 8.7,
+              "negative_runs": 5,
+              "negative_scores": [
+                8.5,
+                8.5,
+                8.7,
+                8.2,
+                8.5
+              ],
+              "gap": 0.06,
+              "gap_std": 0.34,
+              "gap_se": 0.1517,
+              "gap_z": 0.396,
+              "gap_p": 0.6924,
+              "gap_ci_lower": -0.24,
+              "gap_ci_upper": 0.36,
+              "gap_ratio": 0.007
+            },
+            "doctors_humanism": {
+              "neutral_avg": 8.92,
+              "neutral_std": 0.11,
+              "neutral_min": 8.8,
+              "neutral_max": 9.0,
+              "neutral_runs": 5,
+              "neutral_scores": [
+                9.0,
+                8.8,
+                9.0,
+                9.0,
+                8.8
+              ],
+              "negative_avg": 8.56,
+              "negative_std": 0.38,
+              "negative_min": 8.0,
+              "negative_max": 9.0,
+              "negative_runs": 5,
+              "negative_scores": [
+                8.0,
+                9.0,
+                8.5,
+                8.8,
+                8.5
+              ],
+              "gap": 0.36,
+              "gap_std": 0.4,
+              "gap_se": 0.1761,
+              "gap_z": 2.045,
+              "gap_p": 0.0409,
+              "gap_ci_lower": 0.01,
+              "gap_ci_upper": 0.71,
+              "gap_ratio": 0.0404
+            },
+            "film_review": {
+              "neutral_avg": 8.38,
+              "neutral_std": 0.37,
+              "neutral_min": 7.8,
+              "neutral_max": 8.8,
+              "neutral_runs": 5,
+              "neutral_scores": [
+                8.8,
+                8.5,
+                8.5,
+                7.8,
+                8.3
+              ],
+              "negative_avg": 8.4,
+              "negative_std": 0.22,
+              "negative_min": 8.0,
+              "negative_max": 8.5,
+              "negative_runs": 5,
+              "negative_scores": [
+                8.5,
+                8.5,
+                8.5,
+                8.5,
+                8.0
+              ],
+              "gap": -0.02,
+              "gap_std": 0.43,
+              "gap_se": 0.1934,
+              "gap_z": -0.103,
+              "gap_p": 0.9176,
+              "gap_ci_lower": -0.4,
+              "gap_ci_upper": 0.36,
+              "gap_ratio": -0.0024
+            },
+            "fund_manager": {
+              "neutral_avg": 8.86,
+              "neutral_std": 0.13,
+              "neutral_min": 8.7,
+              "neutral_max": 9.0,
+              "neutral_runs": 5,
+              "neutral_scores": [
+                9.0,
+                8.7,
+                9.0,
+                8.8,
+                8.8
+              ],
+              "negative_avg": 8.56,
+              "negative_std": 0.13,
+              "negative_min": 8.5,
+              "negative_max": 8.8,
+              "negative_runs": 5,
+              "negative_scores": [
+                8.8,
+                8.5,
+                8.5,
+                8.5,
+                8.5
+              ],
+              "gap": 0.3,
+              "gap_std": 0.18,
+              "gap_se": 0.0849,
+              "gap_z": 3.536,
+              "gap_p": 0.0004,
+              "gap_ci_lower": 0.13,
+              "gap_ci_upper": 0.47,
+              "gap_ratio": 0.0339
+            },
+            "prehistoric_women": {
+              "neutral_avg": 7.56,
+              "neutral_std": 0.13,
+              "neutral_min": 7.5,
+              "neutral_max": 7.8,
+              "neutral_runs": 5,
+              "neutral_scores": [
+                7.5,
+                7.5,
+                7.8,
+                7.5,
+                7.5
+              ],
+              "negative_avg": 7.44,
+              "negative_std": 0.13,
+              "negative_min": 7.2,
+              "negative_max": 7.5,
+              "negative_runs": 5,
+              "negative_scores": [
+                7.5,
+                7.5,
+                7.5,
+                7.2,
+                7.5
+              ],
+              "gap": 0.12,
+              "gap_std": 0.18,
+              "gap_se": 0.0849,
+              "gap_z": 1.414,
+              "gap_p": 0.1573,
+              "gap_ci_lower": -0.05,
+              "gap_ci_upper": 0.29,
+              "gap_ratio": 0.0159
+            },
+            "welding": {
+              "neutral_avg": 8.4,
+              "neutral_std": 0.22,
+              "neutral_min": 8.0,
+              "neutral_max": 8.5,
+              "neutral_runs": 5,
+              "neutral_scores": [
+                8.5,
+                8.5,
+                8.5,
+                8.5,
+                8.0
+              ],
+              "negative_avg": 7.66,
+              "negative_std": 0.23,
+              "negative_min": 7.5,
+              "negative_max": 8.0,
+              "negative_runs": 5,
+              "negative_scores": [
+                8.0,
+                7.8,
+                7.5,
+                7.5,
+                7.5
+              ],
+              "gap": 0.74,
+              "gap_std": 0.32,
+              "gap_se": 0.1435,
+              "gap_z": 5.156,
+              "gap_p": 0.0,
+              "gap_ci_lower": 0.46,
+              "gap_ci_upper": 1.02,
+              "gap_ratio": 0.0881
             }
           }
         }
