@@ -7526,6 +7526,345 @@ const REPORT_DATA = {
           }
         }
       }
+    },
+    "qwen3.8-flash": {
+      "eval_dates": [
+        "2026-08-26"
+      ],
+      "by_date": {
+        "2026-08-26": {
+          "neutral_avg": 8.66,
+          "negative_avg": 8.5,
+          "gap": 0.16,
+          "gap_ratio": 0.0185,
+          "gap_std": 0.16,
+          "gap_std_within": 0.35,
+          "gap_min": -0.1,
+          "gap_max": 0.36,
+          "gap_ratio_avg": 0.0181,
+          "neutral_std": 0.19,
+          "negative_std": 0.26,
+          "neutral_runs": 45,
+          "negative_runs": 45,
+          "meta_gap": 0.16,
+          "meta_se": 0.0536,
+          "meta_z": 3.057,
+          "meta_p": 0.0022,
+          "meta_ci_lower": 0.06,
+          "meta_ci_upper": 0.27,
+          "meta_i2": 35.1,
+          "meta_q": 12.33,
+          "meta_tau2": 0.0083,
+          "by_article": {
+            "alps_glacier": {
+              "neutral_avg": 8.72,
+              "neutral_std": 0.22,
+              "neutral_min": 8.5,
+              "neutral_max": 9.0,
+              "neutral_runs": 5,
+              "neutral_scores": [
+                8.8,
+                8.8,
+                9.0,
+                8.5,
+                8.5
+              ],
+              "negative_avg": 8.62,
+              "negative_std": 0.16,
+              "negative_min": 8.5,
+              "negative_max": 8.8,
+              "negative_runs": 5,
+              "negative_scores": [
+                8.8,
+                8.5,
+                8.8,
+                8.5,
+                8.5
+              ],
+              "gap": 0.1,
+              "gap_std": 0.27,
+              "gap_se": 0.1217,
+              "gap_z": 0.822,
+              "gap_p": 0.4111,
+              "gap_ci_lower": -0.14,
+              "gap_ci_upper": 0.34,
+              "gap_ratio": 0.0115
+            },
+            "biotech": {
+              "neutral_avg": 8.5,
+              "neutral_std": 0.0,
+              "neutral_min": 8.5,
+              "neutral_max": 8.5,
+              "neutral_runs": 5,
+              "neutral_scores": [
+                8.5,
+                8.5,
+                8.5,
+                8.5,
+                8.5
+              ],
+              "negative_avg": 8.6,
+              "negative_std": 0.22,
+              "negative_min": 8.5,
+              "negative_max": 9.0,
+              "negative_runs": 5,
+              "negative_scores": [
+                8.5,
+                8.5,
+                8.5,
+                8.5,
+                9.0
+              ],
+              "gap": -0.1,
+              "gap_std": 0.22,
+              "gap_se": 0.1,
+              "gap_z": -1.0,
+              "gap_p": 0.3173,
+              "gap_ci_lower": -0.3,
+              "gap_ci_upper": 0.1,
+              "gap_ratio": -0.0118
+            },
+            "coffee_industry": {
+              "neutral_avg": 8.86,
+              "neutral_std": 0.22,
+              "neutral_min": 8.5,
+              "neutral_max": 9.0,
+              "neutral_runs": 5,
+              "neutral_scores": [
+                9.0,
+                9.0,
+                8.5,
+                8.8,
+                9.0
+              ],
+              "negative_avg": 8.56,
+              "negative_std": 0.09,
+              "negative_min": 8.5,
+              "negative_max": 8.7,
+              "negative_runs": 5,
+              "negative_scores": [
+                8.6,
+                8.5,
+                8.5,
+                8.7,
+                8.5
+              ],
+              "gap": 0.3,
+              "gap_std": 0.24,
+              "gap_se": 0.1058,
+              "gap_z": 2.835,
+              "gap_p": 0.0046,
+              "gap_ci_lower": 0.09,
+              "gap_ci_upper": 0.51,
+              "gap_ratio": 0.0339
+            },
+            "cycling_essay": {
+              "neutral_avg": 8.68,
+              "neutral_std": 0.22,
+              "neutral_min": 8.5,
+              "neutral_max": 9.0,
+              "neutral_runs": 5,
+              "neutral_scores": [
+                8.5,
+                8.5,
+                8.8,
+                9.0,
+                8.6
+              ],
+              "negative_avg": 8.42,
+              "negative_std": 0.32,
+              "negative_min": 8.0,
+              "negative_max": 8.8,
+              "negative_runs": 5,
+              "negative_scores": [
+                8.0,
+                8.5,
+                8.8,
+                8.2,
+                8.6
+              ],
+              "gap": 0.26,
+              "gap_std": 0.39,
+              "gap_se": 0.1726,
+              "gap_z": 1.506,
+              "gap_p": 0.132,
+              "gap_ci_lower": -0.08,
+              "gap_ci_upper": 0.6,
+              "gap_ratio": 0.03
+            },
+            "doctors_humanism": {
+              "neutral_avg": 8.7,
+              "neutral_std": 0.14,
+              "neutral_min": 8.5,
+              "neutral_max": 8.8,
+              "neutral_runs": 5,
+              "neutral_scores": [
+                8.8,
+                8.5,
+                8.8,
+                8.6,
+                8.8
+              ],
+              "negative_avg": 8.52,
+              "negative_std": 0.04,
+              "negative_min": 8.5,
+              "negative_max": 8.6,
+              "negative_runs": 5,
+              "negative_scores": [
+                8.5,
+                8.5,
+                8.6,
+                8.5,
+                8.5
+              ],
+              "gap": 0.18,
+              "gap_std": 0.15,
+              "gap_se": 0.0663,
+              "gap_z": 2.714,
+              "gap_p": 0.0067,
+              "gap_ci_lower": 0.05,
+              "gap_ci_upper": 0.31,
+              "gap_ratio": 0.0207
+            },
+            "film_review": {
+              "neutral_avg": 8.78,
+              "neutral_std": 0.27,
+              "neutral_min": 8.5,
+              "neutral_max": 9.2,
+              "neutral_runs": 5,
+              "neutral_scores": [
+                8.6,
+                8.8,
+                8.5,
+                9.2,
+                8.8
+              ],
+              "negative_avg": 8.66,
+              "negative_std": 0.23,
+              "negative_min": 8.5,
+              "negative_max": 9.0,
+              "negative_runs": 5,
+              "negative_scores": [
+                8.5,
+                8.8,
+                8.5,
+                9.0,
+                8.5
+              ],
+              "gap": 0.12,
+              "gap_std": 0.35,
+              "gap_se": 0.1581,
+              "gap_z": 0.759,
+              "gap_p": 0.4479,
+              "gap_ci_lower": -0.19,
+              "gap_ci_upper": 0.43,
+              "gap_ratio": 0.0137
+            },
+            "fund_manager": {
+              "neutral_avg": 9.12,
+              "neutral_std": 0.23,
+              "neutral_min": 8.8,
+              "neutral_max": 9.4,
+              "neutral_runs": 5,
+              "neutral_scores": [
+                9.4,
+                9.0,
+                9.2,
+                9.2,
+                8.8
+              ],
+              "negative_avg": 8.76,
+              "negative_std": 0.18,
+              "negative_min": 8.5,
+              "negative_max": 9.0,
+              "negative_runs": 5,
+              "negative_scores": [
+                8.7,
+                8.8,
+                8.8,
+                9.0,
+                8.5
+              ],
+              "gap": 0.36,
+              "gap_std": 0.29,
+              "gap_se": 0.1304,
+              "gap_z": 2.761,
+              "gap_p": 0.0058,
+              "gap_ci_lower": 0.1,
+              "gap_ci_upper": 0.62,
+              "gap_ratio": 0.0395
+            },
+            "prehistoric_women": {
+              "neutral_avg": 8.1,
+              "neutral_std": 0.38,
+              "neutral_min": 7.5,
+              "neutral_max": 8.5,
+              "neutral_runs": 5,
+              "neutral_scores": [
+                8.5,
+                8.0,
+                8.3,
+                8.2,
+                7.5
+              ],
+              "negative_avg": 8.16,
+              "negative_std": 0.61,
+              "negative_min": 7.5,
+              "negative_max": 8.8,
+              "negative_runs": 5,
+              "negative_scores": [
+                8.5,
+                8.5,
+                8.8,
+                7.5,
+                7.5
+              ],
+              "gap": -0.06,
+              "gap_std": 0.72,
+              "gap_se": 0.3234,
+              "gap_z": -0.186,
+              "gap_p": 0.8528,
+              "gap_ci_lower": -0.69,
+              "gap_ci_upper": 0.57,
+              "gap_ratio": -0.0074
+            },
+            "welding": {
+              "neutral_avg": 8.5,
+              "neutral_std": 0.0,
+              "neutral_min": 8.5,
+              "neutral_max": 8.5,
+              "neutral_runs": 5,
+              "neutral_scores": [
+                8.5,
+                8.5,
+                8.5,
+                8.5,
+                8.5
+              ],
+              "negative_avg": 8.22,
+              "negative_std": 0.51,
+              "negative_min": 7.5,
+              "negative_max": 8.8,
+              "negative_runs": 5,
+              "negative_scores": [
+                8.6,
+                8.2,
+                8.0,
+                8.8,
+                7.5
+              ],
+              "gap": 0.28,
+              "gap_std": 0.51,
+              "gap_se": 0.2289,
+              "gap_z": 1.223,
+              "gap_p": 0.2213,
+              "gap_ci_lower": -0.17,
+              "gap_ci_upper": 0.73,
+              "gap_ratio": 0.0329
+            }
+          }
+        }
+      }
     }
   },
   "article_meta": {
